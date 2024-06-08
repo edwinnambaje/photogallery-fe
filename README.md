@@ -1,4 +1,4 @@
-"# gallery_fe"
+#### Interactive Photo Gallery
 
 This is COA challenge.
 
